@@ -86,6 +86,23 @@
 {
         margin-top: 9px;
 }
+@media (min-width: 320px) and (max-width: 480px) {
+  
+ .buttonblock .promo_code {
+    width: 74%;
+    height: 46px;
+    line-height: 42px;
+    padding: 0 16px;
+}
+
+.buttonblock .btngra {
+    top: -12px;
+    right: -18px;
+    height: 45px;
+    width: 76px;
+   
+}
+  }
 </style>
 <div class="offcanvas-overlay"></div>
 <!-- Breadcrumb Area Start -->
