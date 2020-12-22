@@ -8,6 +8,8 @@
             <div class="logo mlogo">
                 <img width="100px" src="<?php echo base_url(); ?>uploads/logo_image/logo_<?php echo $home_top_logo; ?>.png" alt="logo.png" />
             </div>
+
+            
         </a>
         <div class="col-5">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
